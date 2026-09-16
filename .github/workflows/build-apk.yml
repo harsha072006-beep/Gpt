@@ -1,4 +1,4 @@
-yaml
+
 name: Build and upload debug APK
 on:
   push:
