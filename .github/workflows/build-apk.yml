@@ -39,4 +39,3 @@ jobs:
         with:
           name: prismforge-debug-apk
           path: app/build/outputs/apk/debug/app-debug.apk
-```
